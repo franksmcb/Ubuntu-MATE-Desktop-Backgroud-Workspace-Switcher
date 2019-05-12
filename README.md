@@ -1,4 +1,4 @@
-# Ubuntu-MATE-Desktop-Backgroud-Workspace-Switcher
+# Ubuntu-MATE-Desktop-Background-Workspace-Switcher
 Change Desktop Background when switching workspace
 
 Script to change the desktop background when switching workspaces
